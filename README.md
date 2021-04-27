@@ -1,2 +1,2 @@
-# bolumsonucalismasi2
-Bölüm Sonu Çalışması 2
+# Bölüm Sonu Çalışması 2
+
